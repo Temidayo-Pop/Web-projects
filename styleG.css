@@ -1,0 +1,60 @@
+body{
+    background-color: #fff3e2;
+}
+
+.btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 70px;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+   
+}
+
+.info{
+    border: none;
+   background-color: aqua;
+   padding: 30px 20px;
+   width: 200px;
+   text-align: center;
+   height: 300px;
+   border-radius: 2px;
+   box-shadow: 0 4px 8px rgba(0,0,0, 0,2);
+
+}
+
+.suv{
+    background-color: #ffa559;
+}
+.sedan{
+    background-color: #2A9D8F;
+}
+
+.Luxury{
+    background-color:#6d597a;
+}
+
+.info.icon{
+    font-size: 30px;
+    margin-bottom:15px;
+}
+
+.info p{
+    font-size: 15px;
+    line-height:1.6;
+    color: #ffffff;
+    opacity: 0.9;
+}
+
+.info h3{
+    color: #ffffff;
+    opacity: 0.9;
+}
+
